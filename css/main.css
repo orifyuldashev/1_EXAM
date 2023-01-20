@@ -374,6 +374,9 @@ main {
 input[placeholder] {
   padding-left: 20px;
 }
+input[type="text"]{
+  margin-top: 80px;
+}
 input[type="text"],
 input[type="email"],
 input[type="number"] {
